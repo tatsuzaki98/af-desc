@@ -1,1 +1,4 @@
-/raw
+*.pdf
+*.mp3
+*.log
+/venv
